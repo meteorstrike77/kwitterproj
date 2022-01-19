@@ -1,0 +1,26 @@
+body {
+    background-image: url('download.png');
+    background-size: cover;
+    font-family: 'ABeeZee', sans-serif;
+}
+h1{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 80px;
+}
+h3{
+    font-size: 30px;
+}
+input{
+    font-family: 'ABeeZee', sans-serif;
+    width: 350px;
+    height: 25px;
+}
+button{
+    border-radius: 20px;
+    background-color: rgb(22, 51, 119);
+    font-family: 'ABeeZee', sans-serif;
+    font-weight: bold;
+    width: 10%;
+    border-color: silver;
+    font-size: 20px;
+}
