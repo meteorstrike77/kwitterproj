@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,95,135,1) 26%, rgba(1,147,189,1) 59%, rgba(0,212,255,1) 100%); 
+    color: black;
+    font-family: 'ABeeZee';
+}
+.header{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 60px;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
+#output{
+    padding-bottom: 150px;
+    background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+input{
+    width: 800px;
+}
+#send{
+    border-radius: 20px;
+    font-family: 'ABeeZee';
+    font-weight: bold;
+    background-color: cyan;
+    border: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+#style1{
+    font-family: 'ABeeZee';
+    font-size: 30px;
+    color: black;
+}
+#msg{
+    font-family: 'ABeeZee';
+}

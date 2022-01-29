@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,95,135,1) 26%, rgba(1,147,189,1) 59%, rgba(0,212,255,1) 100%); 
+    color: black;  
+}
+#addroom{
+    font-family: 'ABeeZee', sans-serif;;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+h1{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 60px;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
+#addroomdiv{
+    width: 60%;
+    padding-bottom: 25px;
+}
+#addroombutton{
+    border-radius: 20px;
+    font-family: 'ABeeZee';
+    background-color: cyan;
+    border: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+#trendingrooms{
+    font-family: 'Mochiy Pop P One';
+    font-size: 30px;
+}
+#output{
+    background-color: rgba(255, 255, 255, 1);
+    font-family: 'ABeeZee';
+    padding-bottom: 150px;
+}
